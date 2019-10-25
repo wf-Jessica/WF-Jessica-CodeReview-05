@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.col-md-6{
+	width: 100%;
+
+}
+.heart{
+	box-shadow: none;
+	border: none;
+	text-align: center;
+	font-size: 50px;
+	
+	
+	color: dimgray;
+
+}
+.picture{
+	width: 100%;
+	height: 250px;
+}
+.more{
+	width: 30em;
+	height: 30em;
+	background-color: black;
+	border: 1px solid black;
+	display: none;
+
+
+
+}
+
+#picture1{
+	width: 100%;
+	height: 400px;
+}
+
+h2{
+	text-align: center;
+}
